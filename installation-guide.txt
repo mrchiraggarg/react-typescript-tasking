@@ -1,0 +1,5 @@
+Commands you need to run to get the project up and running
+1. npm install
+2. npm install react-icons --save
+3. npm install @hello-pangea/dnd @types/react-beautiful-dnd
+4. npm start
