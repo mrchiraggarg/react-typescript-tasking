@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Neucha&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Netflix+Sans:wght@300;400;500;700&display=swap');
 
 .App {
   width: 100vw;
@@ -6,17 +6,18 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #2f74c0;
-  font-family: "Neucha", cursive;
+  background-color: #141414;
+  font-family: 'Netflix Sans', sans-serif;
 }
 
 .heading {
   text-transform: uppercase;
   font-size: 40px;
   margin: 30px 0;
-  color: white;
+  color: #E50914;
   z-index: 1;
   text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 @media (max-width: 800px) {
